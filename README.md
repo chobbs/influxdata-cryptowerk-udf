@@ -1,12 +1,10 @@
 # Cryptowerk UDF Example
 
- Example in this directory implements a Cryptowerk verification request with the following specifications.
+ Example in this directory implements a Cryptowerk verification UDF This UDF assumes usage of the
+ experimental Telegraf input for [Blockchain Sealing](https://github.com/chobbs/telegraf-blockchain)
 
 * Wants and provides a stream edge to Kapacitor.
 * Verifies seals of previously registered hashes.
-
-
-This UDF assumes usage of the experimental Telegraf input for [Blockchain Sealing](https://github.com/chobbs/telegraf-blockchain)
 
 ### Constructor
 
