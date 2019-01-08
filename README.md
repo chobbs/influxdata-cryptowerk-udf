@@ -10,7 +10,7 @@
 
 | Chaining Method | Description |
 |:---------|:---------|
-| **[blockchain]()** | Create a node that passes a retrievalId on crit Alert.  |
+| **[blockchain]()** | Create a node that passes a retrievalId|
 
 ### Property Methods
 
