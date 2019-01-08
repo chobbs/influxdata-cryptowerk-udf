@@ -5,6 +5,9 @@
 * Wants and provides a stream edge to Kapacitor.
 * Verifies seals of previously registered hashes.
 
+
+This UDF assumes usage of the experimental Telegraf input for [Blockchain Sealing](https://github.com/chobbs/telegraf-blockchain)
+
 ### Constructor
 
 | Chaining Method | Description |
