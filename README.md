@@ -3,10 +3,7 @@
  Example in this directory implements a Cryptowerk verification request with the following specifications.
 
 * Wants and provides a stream edge to Kapacitor.
-* Checks registration status of previously registered hashes.
-
-At present this UDF presumes the selection of string type field
-
+* Verifies seals of previously registered hashes.
 
 ### Constructor
 
@@ -50,6 +47,3 @@ Example:
 
 Note that as the first point in the given state has no previous point, its
 state will be pressumed static and not passed through.
-
-
-<a href="javascript:document.getElementsByClassName('article')[0].scrollIntoView();" title="top">^</a>
