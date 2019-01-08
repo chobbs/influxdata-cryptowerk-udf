@@ -23,8 +23,8 @@ At present this UDF presumes the selection of string type field
 
 
 
-### Chaining Methods
-[Alert](https://docs.influxdata.com/kapacitor/v1.5/nodes/alert_node/), [Eval](https://docs.influxdata.com/kapacitor/v1.5/nodes/eval_node/), [Window](https://docs.influxdata.com/kapacitor/v1.5/nodes/window_node/), [Stream](https://docs.influxdata.com/kapacitor/v1.5/nodes/stream_node/), [InfluxDBOut](https://docs.influxdata.com/kapacitor/v1.5/nodes/influx_d_b_out_node/), [Deadman](/kapacitor/v1.4/nodes/state_duration_node/#deadman), ....... TODO: (DESCRIBE MORE)
+### Review Chaining Methods
+[Alert](https://docs.influxdata.com/kapacitor/v1.5/nodes/alert_node/), [Eval](https://docs.influxdata.com/kapacitor/v1.5/nodes/eval_node/), [Window](https://docs.influxdata.com/kapacitor/v1.5/nodes/window_node/), [Stream](https://docs.influxdata.com/kapacitor/v1.5/nodes/stream_node/), [InfluxDBOut](https://docs.influxdata.com/kapacitor/v1.5/nodes/influx_d_b_out_node/), .......: (DESCRIBE MORE)
 
 ### Description
 
