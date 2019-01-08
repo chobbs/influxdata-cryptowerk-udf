@@ -16,10 +16,7 @@ usage of the experimental Telegraf input for [Blockchain Sealing](https://github
 
 | Setters | Description |
 |:---|:---|
-| **[retrievalId](#as)&nbsp;(&nbsp;`value`&nbsp;`string`)** | Option that specifies which hash to operate on..  |
-| **[as](#as)&nbsp;(&nbsp;`value`&nbsp;`string`)** | The new name of the resulting state field.   |
-
-
+| **[retrievalId](#as)&nbsp;(&nbsp;`value`&nbsp;`string`)** | Option that specifies which hash to operate on. |
 
 ### Review Chaining Methods
 [Alert](https://docs.influxdata.com/kapacitor/v1.5/nodes/alert_node/), [Eval](https://docs.influxdata.com/kapacitor/v1.5/nodes/eval_node/), [Window](https://docs.influxdata.com/kapacitor/v1.5/nodes/window_node/), [Stream](https://docs.influxdata.com/kapacitor/v1.5/nodes/stream_node/), [InfluxDBOut](https://docs.influxdata.com/kapacitor/v1.5/nodes/influx_d_b_out_node/), .......: (DESCRIBE MORE)
